@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sreevatsa-kota-318a5a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreevatsa-kota-318a5a222/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kota_sreevatsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kota_sreevatsa/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/kl2200031139" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kl2200031139" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/h2200031139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/h2200031139" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/sreevatsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sreevatsa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kl_2200031139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kl_2200031139/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sreevatsa-kota-318a5a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreevatsa-kota-318a5a222/" height="30" width="40" /></a>
+<a href="https://instagram.com/kota_sreevatsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kota_sreevatsa/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kl2200031139" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kl2200031139" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/h2200031139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h2200031139" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sreevatsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sreevatsa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kl_2200031139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kl_2200031139/" height="30" width="40" /></a>
 <a href="https://discord.gg/ksv_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ksv_07" height="30" width="40" /></a>
 </p>
 
